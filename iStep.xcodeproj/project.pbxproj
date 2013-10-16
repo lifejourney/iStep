@@ -484,6 +484,7 @@
 				DC529700180E214E0002E1BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DC529701180E214E0002E1BF /* Build configuration list for PBXNativeTarget "iStepTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				DC529703180E214E0002E1BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
